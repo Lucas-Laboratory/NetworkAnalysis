@@ -2,10 +2,10 @@
 
 ## Table of contents
 
-* [Introduction](#intro)
+* [Introduction](#introduction)
 * [Setup](#setup)
-* [File overview](#files)
-* [Du Plessis et al. (2022)](#duplessis2022)
+* [File overview](#file-overview)
+* [Du Plessis et al. (2022)](#du-plessis-et-al-2022)
 
 ## Introduction
 
