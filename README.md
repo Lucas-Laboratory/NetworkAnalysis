@@ -5,7 +5,7 @@
 * [Introduction](#introduction)
 * [Setup](#setup)
 * [File overview](#file-overview)
-* [Du Plessis et al. (2022)](#du-plessis-et-al-2022)
+* [du Plessis et al. (2022)](#du-plessis-et-al-2022)
 
 ## Introduction
 
@@ -93,9 +93,9 @@ Functions for plotting the network-level metrics in the supplemental figures
 
 Plotting the bar plot of hub counts across multiple thresholds in the supplemental figure
 
-## Du Plessis et al. (2022)
+## du Plessis et al. (2022)
 
-These two Jupyter notebooks perform the analysis and generate basic versions of the figures found in Du Plessis et al. (2022).
+These two Jupyter notebooks perform the analysis and generate basic versions of the figures found in du Plessis et al. (2022).
 
     du_Plessis_et_al_2022_generate_data.ipynb
     du_Plessis_et_al_2022_figures.ipynb
