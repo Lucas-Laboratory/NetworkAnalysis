@@ -20,11 +20,8 @@ The requirements.txt file provides python packages used in all functions in the 
 Suggested setup of python environment (python 3.9.6 was used to run code for the paper):
 
 ```bash
-# install virtualenv
-pip install virtualenv [--user]
-
 # create an env
-virtualenv duPlessis2022
+python -m venv duPlessis2022
 
 # use the env
 source duPlessis2022/bin/activate
@@ -40,9 +37,6 @@ Suggested method for starting the jupyter notebooks:
 ```bash
 # use the env created above
 source duPlessis2022/bin/activate
-
-# Install jupyter
-pip install jupyter
 
 # Start Jupyter
 jupyter notebook
